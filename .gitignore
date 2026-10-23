@@ -1,0 +1,9 @@
+AutoSwitch.log
+*.log
+*.reg
+*-before.json
+*.exe
+*.dll
+*.sys
+*.cat
+*.png
